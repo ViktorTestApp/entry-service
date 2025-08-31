@@ -1,0 +1,19 @@
+# Java
+*.class
+*.jar
+*.war
+
+# Gradle
+.gradle/
+build/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Logs
+logs/
+*.log
+
+# OS
+.DS_Store
